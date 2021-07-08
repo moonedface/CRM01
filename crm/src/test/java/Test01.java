@@ -22,6 +22,7 @@ public class Test01 {
         //判断ip地址
         //浏览器端的IP地址
         String ip="127.0.0.1";
+        String ipo="127.0.0.1";
         //允许访问的地址
         String allowIps="192.168.1.1,127.0.0.1";
         //判断是否是包含关系
